@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-13 09:00:00-0400
+date: 2025-10-14 09:00:00-0400 # year-month-day
 inline: true
 related_posts: false
 ---
 
-I am orginizing a paralel sesion at the [RSME's 7th Congress of Young Researchers](https://jovenes2025.rsme.es/index_en.html) in Bilbao
+I have started as a tenure-track faculty at Universidad de Sevilla

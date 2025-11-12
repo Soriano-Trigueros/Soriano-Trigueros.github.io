@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-23 09:00:00-0400
+date: 2025-07-31 09:00:00-0400 # year-month-day
 inline: true
 related_posts: false
 ---
 
-I will attend the [4th workshop on Computational Persistence](https://www.tugraz.at/projekte/cpw/home) in Graz
+I am giving a talk at [ISSAC2025](https://www.issac-conference.org/2025/) in Guanajuato

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-01-23 09:00:00-0400
+date: 2025-07-23 09:00:00-0400 # year-month-day
 inline: true
 related_posts: false
 ---
 
-I will be visiting the [Hiraoka's research lab](https://sites.google.com/view/hiraoka-lab-en) in Kyoto for 1 month
+I am giving a talk at [ATMCS 2025](https://comptag.github.io/atmcs11/) in Montana
