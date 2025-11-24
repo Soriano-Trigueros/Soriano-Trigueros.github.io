@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Despacho E1.63</p>
-    <p>Av. Reina Mercedes SN, 41002</p>
+    <p>Av. Reina Mercedes SN, 41012</p>
     <p>Sevilla, Andalucía, España</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
