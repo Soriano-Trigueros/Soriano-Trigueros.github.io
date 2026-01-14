@@ -30,14 +30,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/docencia/";
           },
-        },{id: "news-i-am-giving-a-talk-at-atmcs-2025-in-montana",
-          title: 'I am giving a talk at ATMCS 2025 in Montana',
-          description: "",
-          section: "News",},{id: "news-i-am-giving-a-talk-at-issac2025-in-guanajuato",
+        },{id: "news-i-am-giving-a-talk-at-issac2025-in-guanajuato",
           title: 'I am giving a talk at ISSAC2025 in Guanajuato',
           description: "",
           section: "News",},{id: "news-i-have-started-as-a-tenure-track-faculty-at-universidad-de-sevilla",
           title: 'I have started as a tenure-track faculty at Universidad de Sevilla',
+          description: "",
+          section: "News",},{id: "news-i-am-giving-a-flash-talk-at-atmcs-2026-in-mpi-leipzig",
+          title: 'I am giving a flash talk at ATMCS 2026 in MPI Leipzig.',
           description: "",
           section: "News",},{id: "projects-f-structures-on-manifolds",
           title: 'f-structures on manifolds',
