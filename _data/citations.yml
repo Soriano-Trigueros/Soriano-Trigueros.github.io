@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-08'
 papers:
   gKy7CnkAAAAJ:0EnyYjriUFMC:
-    citations: 139
+    citations: 143
     title: A survey of vectorization methods in topological data analysis
     year: '2023'
   gKy7CnkAAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: 'Barcodes of Persistence Modules: from Summaries to Matchings'
     year: '2023'
   gKy7CnkAAAAJ:L8Ckcad2t8MC:
-    citations: 1
+    citations: 2
     title: The Depth Poset under Transpositions in the Filter
     year: '2025'
   gKy7CnkAAAAJ:LkGwnXOMwfcC:
