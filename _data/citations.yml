@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-17'
 papers:
   gKy7CnkAAAAJ:0EnyYjriUFMC:
-    citations: 143
+    citations: 148
     title: A survey of vectorization methods in topological data analysis
     year: '2023'
   gKy7CnkAAAAJ:2osOgNQ5qMEC:
@@ -19,7 +19,7 @@ papers:
     year: '2025'
   gKy7CnkAAAAJ:IWHjjKOFINEC:
     citations: 0
-    title: Additive Partial Matchings Induced by Persistence Maps
+    title: Additive partial matchings induced by persistence maps
     year: '2026'
   gKy7CnkAAAAJ:KlAtU1dfN6UC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: Partial matchings induced by morphisms between persistence modules
     year: '2023'
   gKy7CnkAAAAJ:W7OEmFMy1HYC:
-    citations: 157
+    citations: 159
     title: On the stability of persistent entropy and new summary functions for topological data analysis
     year: '2020'
   gKy7CnkAAAAJ:YOwf2qJgpHMC:
