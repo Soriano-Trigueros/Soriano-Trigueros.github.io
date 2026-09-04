@@ -1,24 +1,16 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-09-04'
 papers:
   gKy7CnkAAAAJ:0EnyYjriUFMC:
-    citations: 148
+    citations: 161
     title: A survey of vectorization methods in topological data analysis
     year: '2023'
   gKy7CnkAAAAJ:2osOgNQ5qMEC:
     citations: 14
     title: Characterising epithelial tissues using persistent entropy
     year: '2018'
-  gKy7CnkAAAAJ:3fE2CSJIrl8C:
-    citations: 10
-    title: Additive Partial Matchings Induced by Persistence Morphisms
-    year: '2020'
-  gKy7CnkAAAAJ:7PzlFSSx8tAC:
-    citations: 3
-    title: Additive partial matchings for persistent homology
-    year: '2025'
   gKy7CnkAAAAJ:IWHjjKOFINEC:
-    citations: 0
+    citations: 12
     title: Additive partial matchings induced by persistence maps
     year: '2026'
   gKy7CnkAAAAJ:KlAtU1dfN6UC:
@@ -26,23 +18,23 @@ papers:
     title: 'Barcodes of Persistence Modules: from Summaries to Matchings'
     year: '2023'
   gKy7CnkAAAAJ:L8Ckcad2t8MC:
-    citations: 2
-    title: The Depth Poset under Transpositions in the Filter
+    citations: 3
+    title: The depth poset under transpositions in the filter
     year: '2025'
   gKy7CnkAAAAJ:LkGwnXOMwfcC:
     citations: 0
-    title: Can trans-S-manifolds be defined from the Gray-Hervella classification for almost Hermitian manifolds?
+    title: Can trans-S-manifolds be defined from the Gray-Hervella classification for almost Hermitian manifolds? P. Alegre et al.
     year: '2022'
   gKy7CnkAAAAJ:Se3iqnhoufwC:
     citations: 18
     title: Partial matchings induced by morphisms between persistence modules
     year: '2023'
   gKy7CnkAAAAJ:W7OEmFMy1HYC:
-    citations: 159
+    citations: 165
     title: On the stability of persistent entropy and new summary functions for topological data analysis
     year: '2020'
   gKy7CnkAAAAJ:YOwf2qJgpHMC:
-    citations: 3
+    citations: 4
     title: The Poset of Cancellations in a Filtered Complex
     year: '2023'
   gKy7CnkAAAAJ:aqlVkmm33-oC:
@@ -53,10 +45,10 @@ papers:
     citations: 19
     title: A new entropy based summary function for topological data analysis
     year: '2018'
-  gKy7CnkAAAAJ:dhFuZR0502QC:
-    citations: 1
-    title: 'Conley-Morse persistence barcode: a homological signature of a combinatorial bifurcation'
-    year: '2025'
+  gKy7CnkAAAAJ:qUcmZB5y_30C:
+    citations: 2
+    title: "Conley\u2013Morse Persistence Barcode: A Homological Signature of Combinatorial Bifurcations"
+    year: '2026'
   gKy7CnkAAAAJ:ufrVoPGSRksC:
     citations: 25
     title: Stable Topological Summaries for Analyzing the Organization of Cells in a Packed Tissue. Mathematics 2021, 9, 1723
